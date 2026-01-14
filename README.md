@@ -69,8 +69,8 @@ Matplotlib
 Jupyter Notebook
 
 **Repository Structure:**
-├── data_preprocessing_esaimeen.ipynb   # Data loading and preprocessing
-├── esaimeen-main-code.ipynb            # Model training and evaluation
+├── data_preprocessing.ipynb   # Data loading and preprocessing
+├── main_code.ipynb            # Model training and evaluation
 ├── README.md                           # Project documentation
 
 **Ethical Considerations:**
