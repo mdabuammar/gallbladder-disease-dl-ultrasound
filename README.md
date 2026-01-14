@@ -1,4 +1,4 @@
-# **Gallbladder Disease Classification using Deep Learning (Ultrasound)***
+# **Gallbladder Disease Classification using Deep Learning (Ultrasound)**
 
 **Overview:**
 This repository presents a PyTorch-based deep learning project for multi-class classification of gallbladder diseases using ultrasound imaging. The project focuses on research-oriented model development, training, and evaluation, and demonstrates an end-to-end deep learning workflow applied to a real-world medical imaging dataset.
